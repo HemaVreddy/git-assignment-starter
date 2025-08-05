@@ -17,3 +17,15 @@ main {
 section {
  margin-bottom: 2rem;
 }
+#testimonials {
+  background-color: #fff;
+  padding: 2rem;
+  border-top: 2px solid #ccc;
+}
+
+.testimonial {
+  background-color: #e7e7e7;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+}
